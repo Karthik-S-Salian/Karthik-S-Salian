@@ -37,4 +37,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-S-Salian&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+## Principles
+
+"An idiot admires complexity, a genius admires simplicity" - ― Terry Davis (dont ask who he is)
+
+Simple is not always easy
+
 ## Check pinned for more projects! 👇
