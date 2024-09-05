@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ## Projects 💎
 
 <a href="https://github.com/Karthik-S-Salian/bad-apple-terminal">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karthik-S-Salian&repo=bad-apple-terminal&theme=aura)</a>
+<a href="https://github.com/Karthik-S-Salian/dotfiles">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karthik-S-Salian&repo=dotfiles&theme=aura)</a>
 <a href="https://github.com/Karthik-S-Salian/firetools">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karthik-S-Salian&repo=firetools&theme=aura)</a>
 <a href="https://github.com/Karthik-S-Salian/nmamitloop">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karthik-S-Salian&repo=nmamitloop&theme=aura)</a>
-<a href="https://github.com/Karthik-S-Salian/docx-extractor-python">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karthik-S-Salian&repo=docx-extractor-python&theme=aura)</a>
 
  **To check more projects access my [repositories page](https://github.com/Karthik-S-Salian?tab=repositories)!**
 
