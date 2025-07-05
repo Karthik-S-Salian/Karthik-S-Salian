@@ -17,17 +17,16 @@ Here are some ideas to get you started:
 ## Hello✨
 
 - ✨ I’m interested in Linux, software development and programming.
-- ❄️ Currently learning Typescript <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=webp&w=256" width="20" height="20" />, ReactJS<img src="https://i.imgur.com/HjiP1xD.png" width="20" heigth="20">, Rust<img src="https://cdn.iconscout.com/icon/free/png-512/free-rust-458183.png?f=webp&w=256" width="20" heigth="20"> and a few other things... 
+- ❄️ Currently learning Nix <img src="https://nixos.org/favicon.svg" width="20" height="20" />, ReactJS<img src="https://i.imgur.com/HjiP1xD.png" width="20" heigth="20">, Rust<img src="https://cdn.iconscout.com/icon/free/png-512/free-rust-458183.png?f=webp&w=256" width="20" heigth="20"> and a few other things... 
 - 💠 I’m looking to collaborate on junior projects!
 - 📫 Reach me in karthikssalian5@gmail.com!
 - 🎮 I love to play minecraft
   
 ## Projects 💎
-
-<a href="https://github.com/Karthik-S-Salian/bad-apple-terminal">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karthik-S-Salian&repo=bad-apple-terminal&theme=aura)</a>
 <a href="https://github.com/Karthik-S-Salian/dotfiles">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karthik-S-Salian&repo=dotfiles&theme=aura)</a>
-<a href="https://github.com/Karthik-S-Salian/firetools">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karthik-S-Salian&repo=firetools&theme=aura)</a>
-<a href="https://github.com/Karthik-S-Salian/nmamitloop">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karthik-S-Salian&repo=nmamitloop&theme=aura)</a>
+<a href="https://github.com/Karthik-S-Salian/bad-apple-terminal">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karthik-S-Salian&repo=bad-apple-terminal&theme=aura)</a>
+<a href="https://github.com/Karthik-S-Salian/executor">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karthik-S-Salian&repo=executor&theme=aura)</a>
+<a href="https://github.com/Karthik-S-Salian/portfolio">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karthik-S-Salian&repo=portfolio&theme=aura)</a>
 
  **To check more projects access my [repositories page](https://github.com/Karthik-S-Salian?tab=repositories)!**
 
